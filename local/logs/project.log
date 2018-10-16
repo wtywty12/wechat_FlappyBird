@@ -1,0 +1,54 @@
+2018-10-16T03:10:36.414Z - normal: Load ~/.CocosCreator/settings.json
+2018-10-16T03:10:36.417Z - normal: checking language setting...
+2018-10-16T03:10:36.417Z - normal: Language: zh
+2018-10-16T03:10:36.890Z - success: protocol editor-framework registered
+2018-10-16T03:10:36.890Z - success: protocol app registered
+2018-10-16T03:10:36.890Z - success: protocol theme registered
+2018-10-16T03:10:36.890Z - success: protocol packages registered
+2018-10-16T03:10:36.890Z - success: protocol unpack registerred
+2018-10-16T03:10:36.891Z - success: protocol disable-commonjs registerred
+2018-10-16T03:10:37.071Z - normal: connected!
+2018-10-16T03:10:37.075Z - normal: Check project /svn/weixinPro/wechat_FlappyBird
+2018-10-16T03:10:37.079Z - normal: Initializing project /svn/weixinPro/wechat_FlappyBird
+2018-10-16T03:10:37.082Z - normal: Initializing Cocos2d
+2018-10-16T03:10:37.756Z - normal: Initializing Asset Database
+2018-10-16T03:10:37.795Z - success: protocol uuid registerred
+2018-10-16T03:10:37.795Z - success: protocol db registerred
+2018-10-16T03:10:37.795Z - success: protocol thumbnail registerred
+2018-10-16T03:10:37.795Z - normal: Loading editor/builtin packages
+2018-10-16T03:10:37.946Z - success: assets loaded
+2018-10-16T03:10:37.950Z - success: builder loaded
+2018-10-16T03:10:37.954Z - success: cocos-analytics loaded
+2018-10-16T03:10:37.959Z - success: console loaded
+2018-10-16T03:10:37.992Z - success: fb-instant-games loaded
+2018-10-16T03:10:37.999Z - success: hierarchy loaded
+2018-10-16T03:10:38.003Z - success: inspector loaded
+2018-10-16T03:10:38.005Z - success: keystore loaded
+2018-10-16T03:10:38.010Z - success: node-library loaded
+2018-10-16T03:10:38.012Z - success: package-asset loaded
+2018-10-16T03:10:38.013Z - success: preferences loaded
+2018-10-16T03:10:38.016Z - success: project-exporter loaded
+2018-10-16T03:10:38.033Z - success: project-importer loaded
+2018-10-16T03:10:38.036Z - success: project-settings loaded
+2018-10-16T03:10:38.043Z - success: ui-kit loaded
+2018-10-16T03:10:38.047Z - success: scene loaded
+2018-10-16T03:10:38.048Z - success: sprite-editor loaded
+2018-10-16T03:10:38.054Z - success: store loaded
+2018-10-16T03:10:38.060Z - success: timeline loaded
+2018-10-16T03:10:38.060Z - normal: Loading builtin packages
+2018-10-16T03:10:38.069Z - success: asset-db-debugger loaded
+2018-10-16T03:10:38.070Z - success: color-picker loaded
+2018-10-16T03:10:38.071Z - success: jsb-adapter loaded
+2018-10-16T03:10:38.075Z - success: package-manager loaded
+2018-10-16T03:10:38.181Z - success: qqplay-adapter loaded
+2018-10-16T03:10:38.189Z - success: sdkbox loaded
+2018-10-16T03:10:38.194Z - success: tester loaded
+2018-10-16T03:10:38.200Z - success: ui-grid loaded
+2018-10-16T03:10:38.204Z - success: ui-kit-preview-extra loaded
+2018-10-16T03:10:38.208Z - success: ui-kit-preview loaded
+2018-10-16T03:10:38.212Z - success: ui-tree loaded
+2018-10-16T03:10:38.213Z - success: weapp-adapter loaded
+2018-10-16T03:10:39.192Z - normal: Loading packages
+2018-10-16T03:10:39.199Z - normal: Watching packages
+2018-10-16T03:10:39.264Z - normal: Run Application
+2018-10-16T03:10:40.373Z - success: preview server running at http://localhost:7456
